@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @staskarasev
-- 👀 I’m interested in finance and data science 
-- 🌱 I’m currently working on my master in finance degree, and learning algorithms and data structures
+- 👀 I’m interested in finance and data science
 - 💞️ I’m looking to collaborate on a project where I can gain real experience
 - 📫 Contact: staskarasev90@gmail.com
 
